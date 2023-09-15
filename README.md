@@ -10,8 +10,6 @@ User-Friendly: The script is designed for ease of use. Simply input your desired
 
 Rich Restaurant Details: Our script provides comprehensive restaurant details, including names, contact information, addresses, ratings, and even enticing images to help users make informed choices.
 
-Custom Location Formatting: We take extra care to format location information in a user-friendly manner, combining city and state details for a polished and readable result.
-
 How It Works:
 
 Accurate Geo-Location: The script uses the RapidAPI key to access geo-location data, ensuring that users receive precise information about their current city and state.
