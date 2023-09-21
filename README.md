@@ -17,3 +17,9 @@ Accurate Geo-Location: The script uses the RapidAPI key to access geo-location d
 Yelp API Integration: Leveraging the Yelp API, our script searches for restaurants that match user preferences within their chosen location. The Yelp API integration enhances the user experience by providing an extensive list of dining options.
 
 Simplified User Experience: Users don't need to worry about technical details. Just enter your preferences and location, and the script handles the rest, presenting results in an easy-to-read format.
+
+
+Video Link 
+https://www.youtube.com/watch?v=BegNDJ2IRJ0
+
+Showcasing YelpAPi and RapidApi machine ran in Greenville, NC
